@@ -11,3 +11,4 @@
 10. git branch branch_name - создать новую ветку
 11. git branch -d branch_name - удаление ветки
 12. git merge branch - добавление информации из ветки в текущую ветку
+13. git log --online - вывод на экран истории всех коммитов в одну линию
